@@ -3,6 +3,7 @@
   "url": "https://example.com/",
   "language": "en",
   "description": "Chromebooks, Chrome OS and Chrome tablet news, how tos, and reviews",
+  "feed": {
     "subtitle": "Chromebooks, Chrome OS and Chrome tablet news, how tos, and reviews",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
