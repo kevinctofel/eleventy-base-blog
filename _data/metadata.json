@@ -1,10 +1,9 @@
 {
-  "title": "Your Blog Name",
+  "title": "About Chromebooks",
   "url": "https://example.com/",
   "language": "en",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
-  "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+  "description": "Chromebooks, Chrome OS and Chrome tablet news, how tos, and reviews",
+    "subtitle": "Chromebooks, Chrome OS and Chrome tablet news, how tos, and reviews",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
